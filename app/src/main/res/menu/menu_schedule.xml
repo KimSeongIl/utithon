@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_save"
+        android:actionLayout="@layout/activity_schedule"
+        android:icon="@drawable/ic_launcher"
+        android:orderInCategory="101"
+        android:title="스케쥴작성"
+        app:showAsAction="ifRoom"
+        />
+</menu>
